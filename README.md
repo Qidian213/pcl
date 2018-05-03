@@ -1,2 +1,0 @@
-# pcl
-# point-cloud-library
